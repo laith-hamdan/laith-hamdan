@@ -4,11 +4,16 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Studying **Computer Science** with a GPA of 95.6 (Excellent Rank)  
+- 🎓 Studying **Computer Science** with a GPA of 95 (Excellent Rank)  
 - 🌍 Meteorologist with a strong interest in **climate adaptation & disaster management**  
-- 💡 Currently working on **AI, ML, and Full-Stack Web Development**  
+- 📊 Skilled in **data analysis**, especially **climate and weather datasets**, with strong insights delivered through **Power BI**  
+- 💡 Currently working on **Forecasting, Climate Analysis, and as a Full-Stack Web Development & ML intern**  
 - 🌱 Learning more about **Node.js, MongoDB, and modern frontend frameworks**  
 - 🔭 Dreaming of contributing to **NASA** one day 🚀  
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqMnBrZ25yYnowMTh4YXRhMnlvdGZvZ3I2cjZneGxyN3ZjZTUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif" width="300"/>
+</p>
 
 ---
 
@@ -34,14 +39,6 @@
   <img src="/icons/ubuntu.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="/icons/npm.svg" alt="npm" width="40" height="40"/>
   <img src="/icons/pnpm.svg" alt="pnpm" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laith-hamdan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laith-hamdan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
