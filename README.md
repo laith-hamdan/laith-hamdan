@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laith Hamdan</h1>
-<h3 align="center">Computer Science Student | Meteorologist 🌦️ | Passionate about AI & Web Development</h3>
+<h3 align="center">Computer Science Student | Meteorologist 🌦️ | Passionate about Data Analysis, AI & Web Development</h3>
 
 ---
 
@@ -9,7 +9,6 @@
 - 📊 Skilled in **data analysis**, especially **climate and weather datasets**, with strong insights delivered through **Power BI**  
 - 💡 Currently working on **Forecasting, Climate Analysis, and as a Full-Stack Web Development & ML intern**  
 - 🌱 Learning more about **Node.js, MongoDB, and modern frontend frameworks**  
-- 🔭 Dreaming of contributing to **NASA** one day 🚀  
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqMnBrZ25yYnowMTh4YXRhMnlvdGZvZ3I2cjZneGxyN3ZjZTUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCBXv6QU/giphy.gif" width="600"/>
